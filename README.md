@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xSmoke213
+- 👀 I’m interested in programming and systemintegration
+- 🌱 I’m currently learning Java
